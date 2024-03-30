@@ -50,5 +50,4 @@ https://github.com/acaicedo23/PurchasesDomains.git
 ## Página de Prueba
 Dirección de la página de prueba https://www.domain.com/
 ##
-![AutomationExercise](https://www.domain.com/)
 ## Agradecimientos
